@@ -1,3 +1,3 @@
 import numpy as np
-arr = np.arange(0,11,2)
+arr = np.random.rand(5,5)
 print(arr)
